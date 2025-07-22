@@ -143,7 +143,7 @@ const CashCalc = () => {
           <img
             src={images.twoThous}
             alt="2000 Note"
-            className="w-[80px] hidden sm:block"
+            className="w-[80px]"
           />
           <label htmlFor="twoThous" className="flex items-center gap-1">
             2000 <span className="text-xl text-center">&times;</span>{" "}
