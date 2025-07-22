@@ -233,7 +233,7 @@ const CashCalc = () => {
           <img
             src={images.oneHund}
             alt="100 Note"
-            className="w-[100px] hidden"
+            className="w-[100px]"
           />
           <label htmlFor="oneHund" className="flex items-center gap-1">
             100 <span className="text-xl text-center">&times;</span>{" "}
