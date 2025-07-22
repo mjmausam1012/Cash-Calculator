@@ -143,7 +143,7 @@ const CashCalc = () => {
           <img
             src={images.twoThous}
             alt="2000 Note"
-            className="w-[80px]"
+            className="w-[100px]"
           />
           <label htmlFor="twoThous" className="flex items-center gap-1">
             2000 <span className="text-xl text-center">&times;</span>{" "}
@@ -173,7 +173,7 @@ const CashCalc = () => {
           <img
             src={images.fiveHund}
             alt="500 Note"
-            className="w-[80px] hidden sm:block"
+            className="w-[100px]"
           />
           <label htmlFor="fiveHund" className="flex items-center gap-1">
             500 <span className="text-xl text-center">&times;</span>{" "}
@@ -203,7 +203,7 @@ const CashCalc = () => {
           <img
             src={images.twoHund}
             alt="200 Note"
-            className="w-[80px] hidden sm:block"
+            className="w-[100px]"
           />
           <label htmlFor="twoHund" className="flex items-center gap-1">
             200 <span className="text-xl text-center">&times;</span>{" "}
@@ -233,7 +233,7 @@ const CashCalc = () => {
           <img
             src={images.oneHund}
             alt="100 Note"
-            className="w-[80px] hidden sm:block"
+            className="w-[100px] hidden"
           />
           <label htmlFor="oneHund" className="flex items-center gap-1">
             100 <span className="text-xl text-center">&times;</span>{" "}
@@ -263,7 +263,7 @@ const CashCalc = () => {
           <img
             src={images.fifty}
             alt="50 Note"
-            className="w-[80px] hidden sm:block"
+            className="w-[100px]"
           />
           <label htmlFor="fifty" className="flex items-center gap-1">
             50 <span className="text-xl text-center">&times;</span>{" "}
@@ -293,7 +293,7 @@ const CashCalc = () => {
           <img
             src={images.twenty}
             alt="20 Note"
-            className="w-[80px] hidden sm:block"
+            className="w-[100px]"
           />
           <label htmlFor="twenty" className="flex items-center gap-1">
             20 <span className="text-xl text-center">&times;</span>{" "}
@@ -323,7 +323,7 @@ const CashCalc = () => {
           <img
             src={images.ten}
             alt="10 Note"
-            className="w-[80px] hidden sm:block"
+            className="w-[100px]"
           />
           <label htmlFor="ten" className="flex items-center gap-1">
             10 <span className="text-xl text-center">&times;</span>{" "}
@@ -357,7 +357,7 @@ const CashCalc = () => {
           <img
             src={images.five}
             alt="5 Coin"
-            className="w-[45px] hidden sm:block"
+            className="w-[50px]"
           />
           <label htmlFor="five" className="flex items-center gap-1">
             5 <span className="text-xl text-center">&times;</span>{" "}
@@ -387,7 +387,7 @@ const CashCalc = () => {
           <img
             src={images.two}
             alt="2 Coin"
-            className="w-[45px] hidden sm:block"
+            className="w-[50px]"
           />
           <label htmlFor="two" className="flex items-center gap-1">
             2 <span className="text-xl text-center">&times;</span>{" "}
@@ -417,7 +417,7 @@ const CashCalc = () => {
           <img
             src={images.one}
             alt="1 Coin"
-            className="w-[45px] hidden sm:block"
+            className="w-[50px]"
           />
           <label htmlFor="one" className="flex items-center gap-1">
             1 <span className="text-xl text-center">&times;</span>{" "}
